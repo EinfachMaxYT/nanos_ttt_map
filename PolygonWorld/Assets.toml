@@ -1,11 +1,10 @@
 # Asset Pack Configurations
 [asset_pack]
-	# Asset Pack Name
 	name =				"PolygonWorld"
-	# Author
 	author =			"EinfachMax"
-	# Version
-	version =			"0.1.12"
+	version =			"1.0.0"
+	unreal_folder =		"PolygonWorld"
+	image = 			"https://i.imgur.com/PItWbGG.jpg"
 
 # Assets Files
 [assets]
