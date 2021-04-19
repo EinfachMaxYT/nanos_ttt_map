@@ -2,10 +2,14 @@
 [asset_pack]
 	# Asset Pack Name
 	name =				"PolygonWorld"
-	# Author
+	# Contributors
 	author =			"EinfachMax"
 	# Version
-	version =			"0.1.12"
+	version =			"1.1.0"
+	# Image URL
+	image =				"https://i.imgur.com/PItWbGG.jpg"
+	# Unreal Folder - the root folder which the assets will have references to each other
+	unreal_folder =		"PolygonWorld"
 
 # Assets Files
 [assets]
@@ -442,7 +446,47 @@
 
 	# Skeletal Meshes
 	[assets.skeletal_meshes]
+		SK_AssaultRifle_01 = "PolygonCity/Weapons/SK_AssaultRifle_01"
+		SK_AssaultRifle_02 = "PolygonCity/Weapons/SK_AssaultRifle_02"
+		SK_AssaultRifle_03 = "PolygonCity/Weapons/SK_AssaultRifle_03"
+		SK_AssaultRifle_04 = "PolygonCity/Weapons/SK_AssaultRifle_04"
+		SK_AssaultRifle_05 = "PolygonCity/Weapons/SK_AssaultRifle_05"
+		SK_AssaultRifle_06 = "PolygonCity/Weapons/SK_AssaultRifle_06"
+		SK_AssaultRifle_07 = "PolygonCity/Weapons/SK_AssaultRifle_07"
+		SK_AssaultRifle_08 = "PolygonCity/Weapons/SK_AssaultRifle_08"
+		SK_AssaultRifle_09 = "PolygonCity/Weapons/SK_AssaultRifle_09"
+		SK_Bullpup_01 = "PolygonCity/Weapons/SK_Bullpup_01"
+		SK_Bullpup_02 = "PolygonCity/Weapons/SK_Bullpup_02"
+		SK_Bullpup_03 = "PolygonCity/Weapons/SK_Bullpup_03"
 		SK_Chr_Business_Male_01 = "PolygonCity/Meshes/Characters/SK_Chr_Business_Male_01"
+		SK_P90 = "PolygonCity/Weapons/SK_P90"
+		SK_Pistol_01 = "PolygonCity/Weapons/SK_Pistol_01"
+		SK_Pistol_02 = "PolygonCity/Weapons/SK_Pistol_02"
+		SK_Pistol_03 = "PolygonCity/Weapons/SK_Pistol_03"
+		SK_Pistol_04 = "PolygonCity/Weapons/SK_Pistol_04"
+		SK_Pistol_05 = "PolygonCity/Weapons/SK_Pistol_05"
+		SK_Pistol_06 = "PolygonCity/Weapons/SK_Pistol_06"
+		SK_Revolver_01 = "PolygonCity/Weapons/SK_Revolver_01"
+		SK_Revolver_02 = "PolygonCity/Weapons/SK_Revolver_02"
+		SK_Revolver_03 = "PolygonCity/Weapons/SK_Revolver_03"
+		SK_Revolver_04 = "PolygonCity/Weapons/SK_Revolver_04"
+		SK_Revolver_05 = "PolygonCity/Weapons/SK_Revolver_05"
+		SK_Shotgun_01 = "PolygonCity/Weapons/SK_Shotgun_01"
+		SK_Shotgun_02 = "PolygonCity/Weapons/SK_Shotgun_02"
+		SK_Shotgun_03 = "PolygonCity/Weapons/SK_Shotgun_03"
+		SK_Shotgun_04 = "PolygonCity/Weapons/SK_Shotgun_04"
+		SK_Shotgun_05 = "PolygonCity/Weapons/SK_Shotgun_05"
+		SK_Shotgun_SawedOff = "PolygonCity/Weapons/SK_Shotgun_SawedOff"
+		SK_SniperRifle_01 = "PolygonCity/Weapons/SK_SniperRifle_01"
+		SK_SniperRifle_02 = "PolygonCity/Weapons/SK_SniperRifle_02"
+		SK_SniperRifle_03 = "PolygonCity/Weapons/SK_SniperRifle_03"
+		SK_SniperRifle_04 = "PolygonCity/Weapons/SK_SniperRifle_04"
+		SK_SniperRifle_05 = "PolygonCity/Weapons/SK_SniperRifle_05"
+		SK_SubmachineGun_01 = "PolygonCity/Weapons/SK_SubmachineGun_01"
+		SK_SubmachineGun_02 = "PolygonCity/Weapons/SK_SubmachineGun_02"
+		SK_SubmachineGun_03 = "PolygonCity/Weapons/SK_SubmachineGun_03"
+		SK_SubmachineGun_04 = "PolygonCity/Weapons/SK_SubmachineGun_04"
+		SK_SubmachineGun_05 = "PolygonCity/Weapons/SK_SubmachineGun_05"
 		SK_Wep_AssaultRifle_01 = "PolygonCity/Meshes/Weapons/Rigged/SK_Wep_AssaultRifle_01"
 		SK_Wep_AssaultRifle_01_Magazine_01 = "PolygonCity/Meshes/Weapons/Rigged/SK_Wep_AssaultRifle_01_Magazine_01"
 		SK_Wep_SniperRifle_01 = "PolygonCity/Meshes/Weapons/Rigged/SK_Wep_SniperRifle_01"
